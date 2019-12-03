@@ -1,0 +1,11 @@
+openshift_env.yaml
+node_modules
+webpack.config.js
+webpack_plugins
+npm-debug.log
+archive
+.git
+.gitignore
+build.sh
+run.sh
+tidy.sh
