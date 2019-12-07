@@ -18,5 +18,5 @@ USER 1001
 
 EXPOSE ${PORT}
 
-ECHO "ready"
+RUN echo "ready"
 #CMD ["npm", "start"]
