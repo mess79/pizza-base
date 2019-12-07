@@ -2,7 +2,7 @@
 #FROM registry.access.redhat.com/ubi8/nodejs-${UBI_NODE_VERSION}
 # This image provides a Node.JS environment you can use to build your Modern Web Applications
 
-registry.access.redhat.com/ubi8/nodejs-10
+FROM registry.access.redhat.com/ubi8/nodejs-10
 
 EXPOSE 8080
 
